@@ -45,7 +45,7 @@ The server will run on [http://localhost:5000](http://localhost:5000).
 
 ## Contributing
 
-We welcome contributions from the community! Whether it's bug fixes, new features, or improvements, your input is valuable. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+We welcome contributions from the community! Whether it's bug fixes, new features, or improvements, your input is valuable.
 
 ## License
 
