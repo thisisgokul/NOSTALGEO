@@ -1,0 +1,56 @@
+.registerhere{
+    font-size: 18px;
+    text-decoration: none;
+    font-family: inherit;
+    
+}
+.login{
+    font-family: inherit;
+    font-size: 39px;
+    color: #051254c0;
+}
+.loginbtn{
+    background-color: #051d96e7 !important;
+    color: #FFFF !important;
+    font-size: 22px !important;
+  
+}
+.login-wraper{
+    background-color: rgba(240, 248, 255, 0.151);
+    padding: 14px;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.24);
+    border-radius: 19px;
+    height: 500px;
+    padding-top: 60px;
+    transition: box-shadow 0.3s ease;
+}
+.login-wraper2{
+    background-color: rgba(240, 248, 255, 0.151);
+    padding: 14px;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.24);
+    border-radius: 19px;
+    height: 550px;
+    padding-top: 50px;
+    transition: box-shadow 0.3s ease;
+}
+.login-wraper label{
+    color: rgb(13, 3, 94);
+    font-weight: 600;
+    font-size: 19px ;
+    
+}
+.login-wraper2 label{
+    color: rgb(13, 3, 94);
+    font-weight: 600;
+    font-size: 19px ;
+    
+}
+
+.inputs{
+    margin-top: 4px;
+    height: 46px;
+    font-size: 18px;
+    border-radius: 12px !important;
+    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.135);
+    border: 2px solid rgba(0, 4, 255, 0.347) !important;
+}

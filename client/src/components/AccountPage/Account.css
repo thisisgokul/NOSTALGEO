@@ -1,0 +1,44 @@
+.account-section {
+    text-decoration: none !important;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: #051254a9;
+    border-radius: 14px;
+    margin: 2px;
+    font-family: inherit;
+}
+
+.account-section:hover {
+    background-color: #051d96e7;
+    color: #FFFF !important;
+}
+.profile-wraper{
+    background-color: rgb(243, 243, 243);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.132);
+    border-radius: 17px;
+    padding: 16px;
+    
+}
+.user-icon{
+    font-size: 62px;
+    background-color: rgb(138, 16, 55);
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.logoutbtn {
+    background-color: #051d96e7 !important;
+    color: #FFFF !important;
+    font-size: 22px !important;
+
+}
+
+.logoutbtn:hover {
+    background-color: #051d96d4 !important;
+}
+
+.account-section.active {
+    background-color: #051d96d4;
+    color: white;
+}

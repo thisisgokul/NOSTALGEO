@@ -1,0 +1,46 @@
+.nav-items{
+    font-size: 15px;
+    font-family: inherit !important;
+    cursor: pointer;
+
+}
+.nav-items:hover{
+    color: rgb(156, 159, 160);
+}
+.search-icon{
+    font-size: 23px;
+    color: blue;
+}
+.nav-wraper{
+    background-color: #ffffff;
+    border: 1px solid #e0dddd;
+    border-radius: 12px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.bgclr{
+    background-color: #ffffff5c;
+    border-radius: 16px;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+}
+.signup-Logo{
+    text-decoration: none;
+    color: #051254c0;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: inherit !important;
+}
+.signup-Logo:hover{
+    color: rgb(100, 78, 125);
+}
+.brandName{
+    font-weight: 500;
+    color: #051254c0;
+    
+}
+.brandLink{
+    text-decoration: none;
+}

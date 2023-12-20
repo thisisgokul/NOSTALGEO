@@ -1,0 +1,172 @@
+.account-section{
+    text-decoration: none !important;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: #051254a9;
+    border-radius: 14px;
+    margin: 2px;
+    font-family: inherit;;
+    padding: 5px;
+}
+.custom-input {
+    border: 1px solid #ccc;
+    background-color: #fbfbfb;
+    color: #4341cd;
+    padding: 10px;
+    border-radius: 9px;
+}
+
+.custom-input2 {
+    height: 21vh;
+    border: 1px solid #ccc;
+    background-color: #fbfbfb;
+    color: #4341cd;
+    padding: 10px;
+    border-radius: 9px;
+}
+
+.container h5 {
+    color: #030b31c0;
+    font-family: inherit;
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.discription {
+    color: #565656cc;
+    font-family: 19px;
+    font-family: inherit;
+    font-weight: 500;
+}
+
+.img-btn {
+    width: 150px;
+    height: 150px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #ccc;
+    color: #000000;
+    font-family: inherit;
+    font-size: 22px;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.img-btn:hover {
+    border: 1px solid #07064f;
+}
+
+.link-btn {
+    height: 67px;
+    background-color: #4341cd;
+    border-radius: 9px;
+    color: #fbfbfb;
+    border: 1px solid #ccc;
+    font-size: 16px;
+
+}
+
+.perks {
+    font-size: 19px;
+    color: #07064f;
+    font-family: inherit;
+
+
+}
+
+.perk-col {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+
+
+}
+
+.outer-label {
+    cursor: pointer;
+}
+
+.save-btn {
+    height: 50px;
+    background-color: #4341cd;
+    border-radius: 16px;
+    color: #fbfbfb;
+    border: 1px solid #ccc;
+    font-size: 22px;
+
+}
+
+.hidden {
+    display: none;
+}
+
+.uploadimg {
+    width: 250px !important;
+  height: 200px !important;
+  margin: 6px;
+  margin-top: 4px;
+  object-fit: cover;
+}
+.place-list{
+    background-color: #c8c8e5be;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.icons {
+    font-size: 30px;
+    color: #03348f;
+    background-color: rgba(0, 0, 0, 0.231);
+    border-radius: 30px;
+    padding: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .icons:hover {
+    background-color: #04025f;
+    color: #ffffff;
+  }
+
+ .card-bg{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.132);
+    padding: 15px;
+    border-radius: 14px;
+    
+ } 
+.date-format{
+    font-size: 19px;
+    color: #062a6c;
+    background-color: #a09fccca;
+    margin-left: 9px;
+    border-radius: 18px;
+   
+
+}
+
+.basic-infos{
+    margin-top: 6px;
+    background-color:#f1f1f87b;
+    color: #041b34;
+  
+    padding: 35px;
+    border-radius: 14px;
+   
+}
+.basic-infos h4{
+    font-size: 22px;
+}
+.info{
+    font-size: 22px;
+    color: #757577;
+}
+
+
+   .price-bg h5{
+    padding: 12px;
+    border-radius: 19px;
+    background-color: rgb(164, 15, 15);
+    color: #ffffff;
+   }

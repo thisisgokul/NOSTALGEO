@@ -1,0 +1,67 @@
+.delete-icon {
+    position: absolute;
+    bottom: 8px;
+    right: 1px;
+    padding: 5px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 33px;
+    border-radius: 50%;
+    opacity: 2;
+    transition: opacity 0.3s ease-out;
+    cursor: pointer;
+}
+
+.delete-icon:hover {
+    opacity: 0.7;
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+    transform: scale(1.2);
+}
+.edit-icon {
+    position: absolute;
+    bottom: 8px;
+   
+    padding: 5px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 33px;
+    border-radius: 50%;
+    opacity: 2;
+    transition: opacity 0.3s ease-out;
+    cursor: pointer;
+}
+
+.edit-icon:hover {
+    opacity: 0.7;
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+    transform: scale(1.2);
+}
+.custom-img {
+    height: 400px;
+    width: 90%;
+    padding: 9px;
+    border-radius: 19px;
+  }
+.bgs{
+    background-color: rgba(0, 0, 0, 0.119);
+}  
+.close-btn {
+    position: fixed;
+    top: 100px;
+    right: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(15, 1, 1, 0.92);
+    font-size: 19px;
+    border-radius: 8px;
+    opacity: 2;
+    transition: opacity 0.3s ease-out;
+    cursor: pointer;
+  }
+  
+.close-btn:hover {
+    opacity: 0.7;
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+    transform: scale(1);
+}
+
+  
