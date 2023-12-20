@@ -7,8 +7,8 @@ dotenv.config();
 
 
 const razorpay = new Razorpay({
-  key_id: 'rzp_test_hA6EEDEhkYpHEE',
-  key_secret: 'tcuDN0k9Uj5AazRfUZmEiJHJ',
+  key_id: '',
+  key_secret: '',
 });
 
 
