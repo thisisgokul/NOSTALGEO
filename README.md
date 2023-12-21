@@ -47,8 +47,5 @@ The server will run on [http://localhost:5000](http://localhost:5000).
 
 We welcome contributions from the community! Whether it's bug fixes, new features, or improvements, your input is valuable.
 
-## License
-
-This project is licensed under the MIT License.
 
 Feel free to explore and contribute to NOSTALGEO. Happy booking!
